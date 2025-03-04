@@ -4,7 +4,8 @@ Artefacts supporting testing of the AWS lambda functions written using Scala 3 a
 
 ## Dependencies
 
-- Scala >= 3.6.3
+- Scala >= 3.3.5
+- [Scala Toolkit 0.7.0](https://github.com/scala/toolkit)
 - [munit](https://scalameta.org/munit/)
 - [upickle-utils](https://github.com/encalmo/upickle-utils)
 
