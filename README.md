@@ -1,3 +1,5 @@
+![Maven Central Version](https://img.shields.io/maven-central/v/org.encalmo/scala-aws-lambda-testkit_3?style=for-the-badge)
+
 # scala-aws-lambda-testkit
 
 Artefacts supporting testing of the AWS lambda functions written using Scala 3 and [scala-aws-lambda-runtime](https://github.com/encalmo/scala-aws-lambda-runtime)
